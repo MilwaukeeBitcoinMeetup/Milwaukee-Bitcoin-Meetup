@@ -6,8 +6,11 @@ Join lively discussions around empowering individuals through technology. Share 
 
 Meetup over drinks as we discuss the current landscape and future trajectory of digital payments, online communities, and personal liberties. All curious, innovative thinkers are welcome.
 
-Related Links:
+**Details for upcoming and past events can be found in Issues**
 
+
+Related Links:
+--------------------
   Meetup: https://www.meetup.com/milwaukee-bitcoin-meetup/
   
   Nostr: npub1t74uhevcmuq7pawzfsg8srlgqadx8v3rkf22stu83wjqtm6kqq8sxc6nyw
@@ -19,7 +22,7 @@ Related Links:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If this is your first time at one of our meetups, we have a few simple guidelines to enhance everyone’s experience:
-
+------
 - Our meetups and events have a simple and singular focus: Bitcoin. All of our topics and discussions will be centered around Bitcoin, the global monetary network, and bitcoin, the reserve asset. If you are interested in crypto tokens, stocks, blockchains, altcoins, alternative investing, NFTs, etc. that is completely fine. There are a number of other meetups to join. This meetup however is just focused on Bitcoin
 
 - Please *no photos* unless everyone agrees and there are not any other folks in the background. We respect everyone’s privacy and want everyone to feel comfortable as they participate
