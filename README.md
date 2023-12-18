@@ -28,3 +28,9 @@ If this is your first time at one of our meetups, we have a few simple guideline
 - Please *no photos* unless everyone agrees and there are not any other folks in the background. We respect everyone’s privacy and want everyone to feel comfortable as they participate
 
 - Chatham House Rules are a set of confidentiality guidelines used to facilitate open and honest discussions while preserving anonymity. Under these rules, participants are free to express their views during a meeting or discussion without revealing the identity or affiliation of the speaker or any other participant. The key principle is that information shared within the session can be used, but the source remains anonymous. This allows for more candid and open conversations, fostering a safe space for sharing diverse perspectives without the fear of personal attribution outside the session.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is a Socratic Seminar?
+------
+Socratic seminars embody the essence of the Socratic method, which hinges on the belief that questioning is fundamental to the pursuit of knowledge. These structured discussions prioritize inquiry-driven dialogue, emphasizing exploration and collaborative examination of ideas rather than adversarial argumentation. In these seminars, participants collectively engage in vocal contemplation, embracing the interactive process of co-constructing profound insights that surpass what any individual could achieve alone. This method highlights the communal aspect of knowledge creation, fostering a deeper, more meaningful understanding through shared exploration and dialogue.
