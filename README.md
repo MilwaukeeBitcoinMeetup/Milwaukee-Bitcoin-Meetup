@@ -6,7 +6,7 @@ Join lively discussions around empowering individuals through technology. Share 
 
 Meetup over drinks as we discuss the current landscape and future trajectory of digital payments, online communities, and personal liberties. All curious, innovative thinkers are welcome.
 
-**Details for upcoming and past events can be found in Issues**
+**Topic Details for upcoming and past events can be found in Issues**
 
 
 Related Links:
