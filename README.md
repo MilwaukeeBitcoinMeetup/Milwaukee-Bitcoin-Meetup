@@ -6,7 +6,9 @@ Join lively discussions around empowering individuals through technology. Share 
 
 Meetup over drinks as we discuss the current landscape and future trajectory of digital payments, online communities, and personal liberties. All curious, innovative thinkers are welcome.
 
-**Topic details for upcoming and past events can be found in Issues**
+Beware of scammers and forks - There is no second best Milwaukee Bitcoin Meetup
+
+# **Topic details for upcoming and past events can be found in Issues**
 
 
 Related Links:
