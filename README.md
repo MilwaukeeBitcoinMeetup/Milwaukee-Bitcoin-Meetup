@@ -6,7 +6,7 @@ Join lively discussions around empowering individuals through technology. Share 
 
 Meetup over drinks as we discuss the current landscape and future trajectory of digital payments, online communities, and personal liberties. All curious, innovative thinkers are welcome.
 
-Beware of scammers and forks - There is no second best Milwaukee Bitcoin Meetup
+Beware of scammers and forks - This meetup is an independent event and is not affiliated with any other meetups using similar names. We want to make it clear that our group operates independently, and any attempts by other groups to falsely associate with us are categorically denied. Participants should be aware that this meetup is a distinct entity and is not associated with any other groups or organizations.
 
 # **Topic details for upcoming and past events can be found in Issues**
 
