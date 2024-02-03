@@ -8,7 +8,7 @@ Meetup over drinks as we discuss the current landscape and future trajectory of 
 
 Beware of scammers and forks - This meetup is an independent event and is not affiliated with any other meetups using similar names. We want to make it clear that our group operates independently, and any attempts by other groups to falsely associate with us are categorically denied. Participants should be aware that this meetup is a distinct entity and is not associated with any other groups or organizations.
 
-# **Topic details for upcoming and past events can be found in Issues**
+# **Details for upcoming and past events can be found in Issues**
 
 
 Related Links:
