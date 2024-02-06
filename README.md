@@ -18,6 +18,8 @@ Related Links:
   Nostr: npub1t74uhevcmuq7pawzfsg8srlgqadx8v3rkf22stu83wjqtm6kqq8sxc6nyw
   
   Twitter(X): https://twitter.com/MKEbtc
+
+  Telegram: https://t.me/MilwaukeeBitcoinMeetup
   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
