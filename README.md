@@ -8,12 +8,14 @@ Meetup over drinks as we discuss the current landscape and future trajectory of 
 
 Beware of scammers and forks - This meetup is an independent event and is not affiliated with any other meetups using similar names. We want to make it clear that our group operates independently, and any attempts by other groups to falsely associate with us are categorically denied. Participants should be aware that this meetup is a distinct entity and is not associated with any other groups or organizations.
 
-# **Details for upcoming and past events can be found in Issues**
+------------------------------------------------------------
+**Our next meetup is: [Tuesday, February 20, 2024 at 6:00 PM at Transfer Pizzeria Café | 101 W Mitchell St · Milwaukee, WI](https://www.flockstr.com/event/naddr1qqyrgwpjvgcnjcfkqyxhwumn8ghj7mn0wvhxcmmvqgs9l27tukvd7q0q7hpycyrcpl5qwknrkg3my49g97rchfq9aatqqrcrqsqqql9n8crva6)**
+- You can discover additional information about the next meetup's topics by exploring the Issues tab.
 
+-----------------
 
 Related Links:
 --------------------
-  Meetup: https://www.meetup.com/milwaukee-bitcoin-meetup/
   
   Nostr: npub1t74uhevcmuq7pawzfsg8srlgqadx8v3rkf22stu83wjqtm6kqq8sxc6nyw
   
