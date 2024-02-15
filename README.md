@@ -1,4 +1,4 @@
-# Milwaukee_Bitcoin_Meetup
+# Milwaukee Bitcoin Meetup
 
 The Milwaukee Bitcoin Meetup convenes every month, drawing those intrigued by the possibilities of Bitcoin: A Decentralized Peer-to-Peer Electronic Cash System. More than just financial rebelling, our group explores the broader social impacts of this sly roundabout cryptographic system.
 
