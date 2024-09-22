@@ -15,8 +15,6 @@ Details about upcoming and past meetups can be found in the [Issues](https://git
 
 Related Links:
 --------------------
-
-  Meetup: https://www.meetup.com/milwaukee-bitcoin-meetup/
   
   Nostr: npub1t74uhevcmuq7pawzfsg8srlgqadx8v3rkf22stu83wjqtm6kqq8sxc6nyw
   
